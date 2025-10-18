@@ -3,8 +3,8 @@
 **Name:** Oluwasegun Odunlade  
 **Slack Username:** @Segun Daniel  
 **Project Description:**  
-This project is part of the HNG13 DevOps Internship (Stage 0).  
-It demonstrates me setting up and deploying an NGINX web server, customizing my index page, and making it publicly accessible.  
+This is my Stage 0 DevOps task for the HNG13 Internship.  
+I deployed an NGINX web server to serve a custom HTML page as required.
 
 **Server URL:** https://executorial-unmounded-salena.ngrok-free.dev
 
